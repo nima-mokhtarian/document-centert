@@ -1,5 +1,6 @@
 # Neo-Bank Workspace Agent Guide
 edited by me
+maryam added
 
 This workspace contains independent Git repositories. Before acting, identify the target
 repository and read its `AGENTS.md`. Repository instructions supplement this workspace contract.
